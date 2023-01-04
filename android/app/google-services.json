@@ -1,0 +1,39 @@
+{
+	"project_info": {
+	  "project_number": "252225975678",
+	  "project_id": "mlkitprogram-fceaa",
+	  "storage_bucket": "mlkitprogram-fceaa.appspot.com"
+	},
+	"client": [
+	  {
+		"client_info": {
+		  "mobilesdk_app_id": "1:252225975678:android:d08fe3462f2d310a3c6f2f",
+		  "android_client_info": {
+			"package_name": "com.example.mlkeyprg"
+		  }
+		},
+		"oauth_client": [
+		  {
+			"client_id": "252225975678-f2mgmbp9mrfl2alcj9mo9mouak1298jl.apps.googleusercontent.com",
+			"client_type": 3
+		  }
+		],
+		"api_key": [
+		  {
+			"current_key": "AIzaSyAGyfLrqceIatLjVNIQ6xisueART0zb7SM"
+		  }
+		],
+		"services": {
+		  "appinvite_service": {
+			"other_platform_oauth_client": [
+			  {
+				"client_id": "252225975678-f2mgmbp9mrfl2alcj9mo9mouak1298jl.apps.googleusercontent.com",
+				"client_type": 3
+			  }
+			]
+		  }
+		}
+	  }
+	],
+	"configuration_version": "1"
+  }
