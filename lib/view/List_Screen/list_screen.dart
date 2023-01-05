@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:mlkeyprg/constants/pallete.dart';
+import 'package:mlkeyprg/controller/auth_controller.dart';
 
 class ListScreen extends StatefulWidget {
   const ListScreen({super.key});
@@ -133,7 +134,9 @@ class _ListScreenState extends State<ListScreen> {
                     Icons.add,
                     size: 24.0,
                   ),
-                  onPressed: () {},
+                  onPressed: () {
+                    AuthController.instance.logOut();
+                  },
                 ),
               ],
             ),

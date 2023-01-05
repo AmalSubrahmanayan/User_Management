@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:mlkeyprg/constants/pallete.dart';
+import 'package:mlkeyprg/controller/auth_controller.dart';
 import 'package:mlkeyprg/view/SignIn_Screen/widgets/gradient_button.dart';
 import 'package:pinput/pinput.dart';
 
@@ -31,6 +32,7 @@ class OtpScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    String otp;
     return Scaffold(
       body: SingleChildScrollView(
         child: Padding(
@@ -51,6 +53,7 @@ class OtpScreen extends StatelessWidget {
               // const PhoneField(),
               const SizedBox(height: 100),
               Pinput(
+                length: 6,
                 autofocus: true,
                 defaultPinTheme: defaultPinTheme,
                 focusedPinTheme: focusedPinTheme,
@@ -60,7 +63,10 @@ class OtpScreen extends StatelessWidget {
                 },
                 pinputAutovalidateMode: PinputAutovalidateMode.onSubmit,
                 showCursor: true,
-                onCompleted: (pin) => print(pin),
+                onCompleted: (pin) {
+                  otp=pin;
+                  AuthController.instance.verifyOtp(otp);
+                },
               ),
               const SizedBox(height: 50),
                GradientButton(onTap: (){},),

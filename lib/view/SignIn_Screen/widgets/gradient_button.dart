@@ -3,7 +3,7 @@ import 'package:mlkeyprg/constants/pallete.dart';
 
 class GradientButton extends StatelessWidget {
   const GradientButton({Key? key,required this.onTap,}) : super(key: key);
-  final Function onTap;
+  final Function() onTap;
 
   @override
   Widget build(BuildContext context) {
@@ -21,7 +21,9 @@ class GradientButton extends StatelessWidget {
         borderRadius: BorderRadius.circular(7),
       ),
       child: ElevatedButton(
-        onPressed:() => onTap,
+        onPressed:() {
+          onTap();
+        },
         style: ElevatedButton.styleFrom(
           fixedSize: const Size(395, 55),
           backgroundColor: Colors.transparent,

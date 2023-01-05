@@ -1,0 +1,249 @@
+[12:14:29 AM]: Spawning C:\Flutter\flutter\bin\flutter.bat with args ["run","--machine","--start-paused","-d","emulator-5554","--devtools-server-address","http://127.0.0.1:9100/","--target","lib\\main.dart"]
+[12:14:29 AM]: ..  in C:\Users\amals\OneDrive\Desktop\Assignment\assignment
+[12:14:29 AM]: ..  with {"toolEnv":{"FLUTTER_HOST":"VSCode","PUB_ENVIRONMENT":"vscode.dart-code"}}
+[12:14:29 AM]: PID: 20376
+[12:14:36 AM]: <== [{"event":"daemon.connected","params":{"version":"0.6.1","pid":35072}}]
+[12:14:36 AM]: <== [{"event":"app.start","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","deviceId":"emulator-5554","directory":"C:\\Users\\amals\\OneDrive\\Desktop\\Assignment\\assignment","supportsRestart":true,"launchMode":"run"}}]
+[12:14:37 AM]: <== Launching lib\main.dart on sdk gphone x86 in debug mode...
+[12:14:38 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"0","progressId":null,"message":"Running Gradle task 'assembleDebug'...","finished":false}}]
+[12:15:22 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"0","progressId":null,"finished":true}}]
+[12:15:23 AM]: <== √  Built build\app\outputs\flutter-apk\app-debug.apk.
+[12:15:23 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"1","progressId":null,"message":"Installing build\\app\\outputs\\flutter-apk\\app.apk...","finished":false}}]
+[12:15:24 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"1","progressId":null,"finished":true}}]
+[12:15:27 AM]: <== [{"event":"app.debugPort","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","port":50422,"wsUri":"ws://127.0.0.1:50422/_JHuKHTXmPQ=/ws","baseUri":"file:///data/user/0/com.example.mlkeyprg/code_cache/assignmentUGOBKG/assignment/"}}]
+[12:15:27 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"2","progressId":null,"message":"Syncing files to device sdk gphone x86...","finished":false}}]
+[12:15:27 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"2","progressId":null,"finished":true}}]
+[12:15:27 AM]: <== [{"event":"app.started","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b"}}]
+[12:15:29 AM]: <== I/xample.mlkeypr(11790): Waiting for a blocking GC ProfileSaver
+[12:15:29 AM]: <== I/flutter (11790): user not loginrd
+[12:15:32 AM]: <== I/AssistStructure(11790): Flattened final assist data: 440 bytes, containing 1 windows, 3 views
+[12:15:41 AM]: <== I/AssistStructure(11790): Flattened final assist data: 384 bytes, containing 1 windows, 3 views
+[12:15:51 AM]: <== I/AssistStructure(11790): Flattened final assist data: 440 bytes, containing 1 windows, 3 views
+[12:17:13 AM]: <== I/AssistStructure(11790): Flattened final assist data: 384 bytes, containing 1 windows, 3 views
+[12:19:01 AM]: ==> [{"id":"1","method":"app.restart","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","fullRestart":false,"pause":false,"reason":"save","debounce":true}}]
+[12:19:01 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"3","progressId":"hot.reload","message":"Performing hot reload...","finished":false}}]
+[12:19:01 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"4","progressId":null,"message":"Syncing files to device sdk gphone x86...","finished":false}}]
+[12:19:01 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"4","progressId":null,"finished":true}}]
+[12:19:01 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"3","progressId":"hot.reload","finished":true}}]
+[12:19:01 AM]: <== Reloaded 6 of 967 libraries in 610ms (compile: 44 ms, reload: 172 ms, reassemble: 240 ms).
+[12:19:01 AM]: <== [{"id":"1","result":{"code":0,"message":"Reloaded 6 of 967 libraries"}}]
+[12:19:04 AM]: ==> [{"id":"2","method":"app.restart","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","fullRestart":true,"pause":false,"reason":"manual"}}]
+[12:19:04 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"5","progressId":"hot.restart","message":"Performing hot restart...","finished":false}}]
+[12:19:04 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"6","progressId":null,"message":"Syncing files to device sdk gphone x86...","finished":false}}]
+[12:19:04 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"6","progressId":null,"finished":true}}]
+[12:19:05 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"5","progressId":"hot.restart","finished":true}}]
+[12:19:05 AM]: <== Restarted application in 889ms.
+[12:19:05 AM]: <== [{"id":"2","result":{"code":0,"message":""}}]
+[12:19:06 AM]: <== I/flutter (11790): user not loginrd
+[12:19:10 AM]: <== I/AssistStructure(11790): Flattened final assist data: 440 bytes, containing 1 windows, 3 views
+[12:21:03 AM]: ==> [{"id":"3","method":"app.restart","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","fullRestart":true,"pause":false,"reason":"manual"}}]
+[12:21:03 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"7","progressId":"hot.restart","message":"Performing hot restart...","finished":false}}]
+[12:21:03 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"8","progressId":null,"message":"Syncing files to device sdk gphone x86...","finished":false}}]
+[12:21:03 AM]: lib/view/Phone_Screen/phone_scerrn.dart:109:19: Error: The getter 'Get' isn't defined for the class '_PhoneScreenState'.
+[12:21:03 AM]: - '_PhoneScreenState' is from 'package:mlkeyprg/view/Phone_Screen/phone_scerrn.dart' ('lib/view/Phone_Screen/phone_scerrn.dart').
+Try correcting the name to the name of an existing getter, or defining a getter or field named 'Get'.
+                  Get.off(() => const OtpScreen());
+                  ^^^
+[12:21:03 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"8","progressId":null,"finished":true}}]
+[12:21:03 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"7","progressId":"hot.restart","finished":true}}]
+[12:21:03 AM]: <== Restarted application in 245ms.
+[12:21:03 AM]: <== [{"id":"3","result":{"code":1,"message":"DevFS synchronization failed"}}]
+[12:21:12 AM]: ==> [{"id":"4","method":"app.restart","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","fullRestart":false,"pause":false,"reason":"save","debounce":true}}]
+[12:21:12 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"9","progressId":"hot.reload","message":"Performing hot reload...","finished":false}}]
+[12:21:12 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"10","progressId":null,"message":"Syncing files to device sdk gphone x86...","finished":false}}]
+[12:21:12 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"10","progressId":null,"finished":true}}]
+[12:21:12 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"9","progressId":"hot.reload","finished":true}}]
+[12:21:12 AM]: <== Reloaded 6 of 967 libraries in 585ms (compile: 75 ms, reload: 157 ms, reassemble: 283 ms).
+[12:21:12 AM]: <== [{"id":"4","result":{"code":0,"message":"Reloaded 6 of 967 libraries"}}]
+[12:21:16 AM]: ==> [{"id":"5","method":"app.restart","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","fullRestart":true,"pause":false,"reason":"manual"}}]
+[12:21:16 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"11","progressId":"hot.restart","message":"Performing hot restart...","finished":false}}]
+[12:21:16 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"12","progressId":null,"message":"Syncing files to device sdk gphone x86...","finished":false}}]
+[12:21:17 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"12","progressId":null,"finished":true}}]
+[12:21:17 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"11","progressId":"hot.restart","finished":true}}]
+[12:21:17 AM]: <== Restarted application in 1,793ms.
+[12:21:17 AM]: <== [{"id":"5","result":{"code":0,"message":""}}]
+[12:21:19 AM]: <== I/flutter (11790): user not loginrd
+[12:21:20 AM]: <== I/AssistStructure(11790): Flattened final assist data: 440 bytes, containing 1 windows, 3 views
+[12:21:34 AM]: <== E/flutter (11790): [ERROR:flutter/runtime/dart_vm_initializer.cc(41)] Unhandled Exception: 'package:flutter/src/services/hardware_keyboard.dart': Failed assertion: line 432 pos 16: '_pressedKeys.containsKey(event.physicalKey)': A KeyUpEvent is dispatched, but the state shows that the physical key is not pressed. If this occurs in real application, please report this bug to Flutter. If this occurs in unit tests, please ensure that simulated events follow Flutter's event model as documented in `HardwareKeyboard`. This was the event: KeyUpEvent#baafe(physicalKey: PhysicalKeyboardKey#7002a(usbHidUsage: "0x0007002a", debugName: "Backspace"), logicalKey: LogicalKeyboardKey#00008(keyId: "0x100000008", keyLabel: "Backspace", debugName: "Backspace"), character: null, timeStamp: 0:00:07.043435, synthesized)
+[12:21:34 AM]: <== E/flutter (11790): #0      _AssertionError._doThrowNew (dart:core-patch/errors_patch.dart:51:61)
+[12:21:34 AM]: <== E/flutter (11790): #1      _AssertionError._throwNew (dart:core-patch/errors_patch.dart:40:5)
+[12:21:34 AM]: <== E/flutter (11790): #2      HardwareKeyboard._assertEventIsRegular.<anonymous closure> (package:flutter/src/services/hardware_keyboard.dart:432:16)
+[12:21:34 AM]: <== E/flutter (11790): #3      HardwareKeyboard._assertEventIsRegular (package:flutter/src/services/hardware_keyboard.dart:443:6)
+[12:21:34 AM]: <== E/flutter (11790): #4      HardwareKeyboard.handleKeyEvent (package:flutter/src/services/hardware_keyboard.dart:535:5)
+[12:21:34 AM]: <== E/flutter (11790): #5      KeyEventManager.handleKeyData (package:flutter/src/services/hardware_keyboard.dart:808:29)
+[12:21:34 AM]: <== E/flutter (11790): #6      PlatformDispatcher._keyDataListener.<anonymous closure>.<anonymous closure> (dart:ui/platform_dispatcher.dart:410:41)
+[12:21:34 AM]: <== E/flutter (11790): #7      _invoke1 (dart:ui/hooks.dart:167:13)
+[12:21:34 AM]: <== E/flutter (11790): #8      PlatformDispatcher._keyDataListener.<anonymous closure> (dart:ui/platform_dispatcher.dart:408:7)
+[12:21:34 AM]: <== E/flutter (11790): #9      _invoke2 (dart:ui/hooks.dart:186:13)
+[12:21:34 AM]: <== E/flutter (11790): #10     _ChannelCallbackRecord.invoke (dart:ui/channel_buffers.dart:42:5)
+[12:21:34 AM]: <== E/flutter (11790): #11     _Channel.push (dart:ui/channel_buffers.dart:132:31)
+[12:21:34 AM]: <== E/flutter (11790): #12     ChannelBuffers.push (dart:ui/channel_buffers.dart:329:17)
+[12:21:34 AM]: <== E/flutter (11790): #13     PlatformDispatcher._dispatchPlatformMessage (dart:ui/platform_dispatcher.dart:599:22)
+[12:21:34 AM]: <== E/flutter (11790): #14     _dispatchPlatformMessage (dart:ui/hooks.dart:89:31)
+[12:21:34 AM]: <== E/flutter (11790):
+[12:21:35 AM]: <== E/flutter (11790): [ERROR:flutter/runtime/dart_vm_initializer.cc(41)] Unhandled Exception: 'package:flutter/src/services/hardware_keyboard.dart': Failed assertion: line 432 pos 16: '_pressedKeys.containsKey(event.physicalKey)': A KeyUpEvent is dispatched, but the state shows that the physical key is not pressed. If this occurs in real application, please report this bug to Flutter. If this occurs in unit tests, please ensure that simulated events follow Flutter's event model as documented in `HardwareKeyboard`. This was the event: KeyUpEvent#baafe(physicalKey: PhysicalKeyboardKey#7002a(usbHidUsage: "0x0007002a", debugName: "Backspace"), logicalKey: LogicalKeyboardKey#00008(keyId: "0x100000008", keyLabel: "Backspace", debugName: "Backspace"), character: null, timeStamp: 0:00:07.043435, synthesized)
+[12:21:35 AM]: <== E/flutter (11790): #0      _AssertionError._doThrowNew (dart:core-patch/errors_patch.dart:51:61)
+[12:21:35 AM]: <== E/flutter (11790): #1      _AssertionError._throwNew (dart:core-patch/errors_patch.dart:40:5)
+[12:21:35 AM]: <== E/flutter (11790): #2      HardwareKeyboard._assertEventIsRegular.<anonymous closure> (package:flutter/src/services/hardware_keyboard.dart:432:16)
+[12:21:35 AM]: <== E/flutter (11790): #3      HardwareKeyboard._assertEventIsRegular (package:flutter/src/services/hardware_keyboard.dart:443:6)
+[12:21:35 AM]: <== E/flutter (11790): #4      HardwareKeyboard.handleKeyEvent (package:flutter/src/services/hardware_keyboard.dart:535:5)
+[12:21:35 AM]: <== E/flutter (11790): #5      KeyEventManager.handleKeyData (package:flutter/src/services/hardware_keyboard.dart:808:29)
+[12:21:35 AM]: <== E/flutter (11790): #6      PlatformDispatcher._keyDataListener.<anonymous closure>.<anonymous closure> (dart:ui/platform_dispatcher.dart:410:41)
+[12:21:35 AM]: <== E/flutter (11790): #7      _invoke1 (dart:ui/hooks.dart:167:13)
+[12:21:35 AM]: <== E/flutter (11790): #8      PlatformDispatcher._keyDataListener.<anonymous closure> (dart:ui/platform_dispatcher.dart:408:7)
+[12:21:35 AM]: <== E/flutter (11790): #9      _invoke2 (dart:ui/hooks.dart:186:13)
+[12:21:35 AM]: <== E/flutter (11790): #10     _ChannelCallbackRecord.invoke (dart:ui/channel_buffers.dart:42:5)
+[12:21:35 AM]: <== E/flutter (11790): #11     _Channel.push (dart:ui/channel_buffers.dart:132:31)
+[12:21:35 AM]: <== E/flutter (11790): #12     ChannelBuffers.push (dart:ui/channel_buffers.dart:329:17)
+[12:21:35 AM]: <== E/flutter (11790): #13     PlatformDispatcher._dispatchPlatformMessage (dart:ui/platform_dispatcher.dart:599:22)
+[12:21:35 AM]: <== E/flutter (11790): #14     _dispatchPlatformMessage (dart:ui/hooks.dart:89:31)
+[12:21:35 AM]: <== E/flutter (11790):
+[12:22:43 AM]: ==> [{"id":"6","method":"app.restart","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","fullRestart":false,"pause":false,"reason":"save","debounce":true}}]
+[12:22:43 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"13","progressId":"hot.reload","message":"Performing hot reload...","finished":false}}]
+[12:22:43 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"14","progressId":null,"message":"Syncing files to device sdk gphone x86...","finished":false}}]
+[12:22:43 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"14","progressId":null,"finished":true}}]
+[12:22:43 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"13","progressId":"hot.reload","finished":true}}]
+[12:22:43 AM]: <== Reloaded 1 of 967 libraries in 547ms (compile: 31 ms, reload: 152 ms, reassemble: 296 ms).
+[12:22:43 AM]: <== [{"id":"6","result":{"code":0,"message":"Reloaded 1 of 967 libraries"}}]
+[12:23:07 AM]: ==> [{"id":"7","method":"app.restart","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","fullRestart":true,"pause":false,"reason":"manual"}}]
+[12:23:07 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"15","progressId":"hot.restart","message":"Performing hot restart...","finished":false}}]
+[12:23:07 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"16","progressId":null,"message":"Syncing files to device sdk gphone x86...","finished":false}}]
+[12:23:07 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"16","progressId":null,"finished":true}}]
+[12:23:08 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"15","progressId":"hot.restart","finished":true}}]
+[12:23:08 AM]: <== Restarted application in 932ms.
+[12:23:08 AM]: <== [{"id":"7","result":{"code":0,"message":""}}]
+[12:23:09 AM]: <== I/flutter (11790): user not loginrd
+[12:25:26 AM]: ==> [{"id":"8","method":"app.restart","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","fullRestart":false,"pause":false,"reason":"save","debounce":true}}]
+[12:25:26 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"17","progressId":"hot.reload","message":"Performing hot reload...","finished":false}}]
+[12:25:26 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"18","progressId":null,"message":"Syncing files to device sdk gphone x86...","finished":false}}]
+[12:25:26 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"18","progressId":null,"finished":true}}]
+[12:25:26 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"17","progressId":"hot.reload","finished":true}}]
+[12:25:26 AM]: <== Reloaded 6 of 967 libraries in 524ms (compile: 50 ms, reload: 152 ms, reassemble: 255 ms).
+[12:25:26 AM]: <== [{"id":"8","result":{"code":0,"message":"Reloaded 6 of 967 libraries"}}]
+[12:25:33 AM]: ==> [{"id":"9","method":"app.restart","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","fullRestart":true,"pause":false,"reason":"manual"}}]
+[12:25:33 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"19","progressId":"hot.restart","message":"Performing hot restart...","finished":false}}]
+[12:25:33 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"20","progressId":null,"message":"Syncing files to device sdk gphone x86...","finished":false}}]
+[12:25:34 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"20","progressId":null,"finished":true}}]
+[12:25:34 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"19","progressId":"hot.restart","finished":true}}]
+[12:25:34 AM]: <== Restarted application in 984ms.
+[12:25:34 AM]: <== [{"id":"9","result":{"code":0,"message":""}}]
+[12:25:36 AM]: <== I/flutter (11790): user not loginrd
+[12:27:11 AM]: ==> [{"id":"10","method":"app.restart","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","fullRestart":false,"pause":false,"reason":"save","debounce":true}}]
+[12:27:11 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"21","progressId":"hot.reload","message":"Performing hot reload...","finished":false}}]
+[12:27:11 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"22","progressId":null,"message":"Syncing files to device sdk gphone x86...","finished":false}}]
+[12:27:12 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"22","progressId":null,"finished":true}}]
+[12:27:12 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"21","progressId":"hot.reload","finished":true}}]
+[12:27:12 AM]: <== Reloaded 1 of 967 libraries in 514ms (compile: 26 ms, reload: 140 ms, reassemble: 286 ms).
+[12:27:12 AM]: <== [{"id":"10","result":{"code":0,"message":"Reloaded 1 of 967 libraries"}}]
+[12:28:01 AM]: ==> [{"id":"11","method":"app.restart","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","fullRestart":false,"pause":false,"reason":"save","debounce":true}}]
+[12:28:01 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"23","progressId":"hot.reload","message":"Performing hot reload...","finished":false}}]
+[12:28:01 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"24","progressId":null,"message":"Syncing files to device sdk gphone x86...","finished":false}}]
+[12:28:01 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"24","progressId":null,"finished":true}}]
+[12:28:01 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"23","progressId":"hot.reload","finished":true}}]
+[12:28:01 AM]: <== Reloaded 1 of 967 libraries in 544ms (compile: 40 ms, reload: 180 ms, reassemble: 240 ms).
+[12:28:01 AM]: <== [{"id":"11","result":{"code":0,"message":"Reloaded 1 of 967 libraries"}}]
+[12:28:04 AM]: ==> [{"id":"12","method":"app.restart","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","fullRestart":false,"pause":false,"reason":"save","debounce":true}}]
+[12:28:04 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"25","progressId":"hot.reload","message":"Performing hot reload...","finished":false}}]
+[12:28:04 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"26","progressId":null,"message":"Syncing files to device sdk gphone x86...","finished":false}}]
+[12:28:04 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"26","progressId":null,"finished":true}}]
+[12:28:05 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"25","progressId":"hot.reload","finished":true}}]
+[12:28:05 AM]: <== Reloaded 1 of 967 libraries in 498ms (compile: 28 ms, reload: 163 ms, reassemble: 238 ms).
+[12:28:05 AM]: <== [{"id":"12","result":{"code":0,"message":"Reloaded 1 of 967 libraries"}}]
+[12:28:07 AM]: ==> [{"id":"13","method":"app.restart","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","fullRestart":false,"pause":false,"reason":"save","debounce":true}}]
+[12:28:07 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"27","progressId":"hot.reload","message":"Performing hot reload...","finished":false}}]
+[12:28:07 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"28","progressId":null,"message":"Syncing files to device sdk gphone x86...","finished":false}}]
+[12:28:07 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"28","progressId":null,"finished":true}}]
+[12:28:08 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"27","progressId":"hot.reload","finished":true}}]
+[12:28:08 AM]: <== Reloaded 7 of 967 libraries in 629ms (compile: 65 ms, reload: 230 ms, reassemble: 256 ms).
+[12:28:08 AM]: <== [{"id":"13","result":{"code":0,"message":"Reloaded 7 of 967 libraries"}}]
+[12:28:16 AM]: ==> [{"id":"14","method":"app.restart","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","fullRestart":true,"pause":false,"reason":"manual"}}]
+[12:28:16 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"29","progressId":"hot.restart","message":"Performing hot restart...","finished":false}}]
+[12:28:16 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"30","progressId":null,"message":"Syncing files to device sdk gphone x86...","finished":false}}]
+[12:28:17 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"30","progressId":null,"finished":true}}]
+[12:28:17 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"29","progressId":"hot.restart","finished":true}}]
+[12:28:17 AM]: <== Restarted application in 1,103ms.
+[12:28:17 AM]: <== [{"id":"14","result":{"code":0,"message":""}}]
+[12:28:19 AM]: <== I/flutter (11790): user not loginrd
+[12:28:49 AM]: ==> [{"id":"15","method":"app.restart","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","fullRestart":false,"pause":false,"reason":"save","debounce":true}}]
+[12:28:49 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"31","progressId":"hot.reload","message":"Performing hot reload...","finished":false}}]
+[12:28:49 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"32","progressId":null,"message":"Syncing files to device sdk gphone x86...","finished":false}}]
+[12:28:49 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"32","progressId":null,"finished":true}}]
+[12:28:49 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"31","progressId":"hot.reload","finished":true}}]
+[12:28:49 AM]: <== Reloaded 1 of 967 libraries in 503ms (compile: 19 ms, reload: 151 ms, reassemble: 266 ms).
+[12:28:49 AM]: <== [{"id":"15","result":{"code":0,"message":"Reloaded 1 of 967 libraries"}}]
+[12:28:52 AM]: ==> [{"id":"16","method":"app.restart","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","fullRestart":true,"pause":false,"reason":"manual"}}]
+[12:28:52 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"33","progressId":"hot.restart","message":"Performing hot restart...","finished":false}}]
+[12:28:52 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"34","progressId":null,"message":"Syncing files to device sdk gphone x86...","finished":false}}]
+[12:28:53 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"34","progressId":null,"finished":true}}]
+[12:28:53 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"33","progressId":"hot.restart","finished":true}}]
+[12:28:53 AM]: <== Restarted application in 972ms.
+[12:28:53 AM]: <== [{"id":"16","result":{"code":0,"message":""}}]
+[12:28:55 AM]: <== I/flutter (11790): user not loginrd
+[12:30:07 AM]: ==> [{"id":"17","method":"app.restart","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","fullRestart":false,"pause":false,"reason":"save","debounce":true}}]
+[12:30:07 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"35","progressId":"hot.reload","message":"Performing hot reload...","finished":false}}]
+[12:30:07 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"36","progressId":null,"message":"Syncing files to device sdk gphone x86...","finished":false}}]
+[12:30:07 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"36","progressId":null,"finished":true}}]
+[12:30:07 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"35","progressId":"hot.reload","finished":true}}]
+[12:30:07 AM]: <== Reloaded 6 of 967 libraries in 560ms (compile: 51 ms, reload: 177 ms, reassemble: 261 ms).
+[12:30:07 AM]: <== [{"id":"17","result":{"code":0,"message":"Reloaded 6 of 967 libraries"}}]
+[12:30:11 AM]: ==> [{"id":"18","method":"app.restart","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","fullRestart":true,"pause":false,"reason":"manual"}}]
+[12:30:11 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"37","progressId":"hot.restart","message":"Performing hot restart...","finished":false}}]
+[12:30:11 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"38","progressId":null,"message":"Syncing files to device sdk gphone x86...","finished":false}}]
+[12:30:12 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"38","progressId":null,"finished":true}}]
+[12:30:12 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"37","progressId":"hot.restart","finished":true}}]
+[12:30:12 AM]: <== Restarted application in 1,195ms.
+[12:30:12 AM]: <== [{"id":"18","result":{"code":0,"message":""}}]
+[12:30:13 AM]: <== I/flutter (11790): user not loginrd
+[12:30:16 AM]: <== I/AssistStructure(11790): Flattened final assist data: 440 bytes, containing 1 windows, 3 views
+[12:30:38 AM]: <== E/zzbf    (11790): SafetyNet Attestation fails basic integrity.
+[12:30:38 AM]: <== I/zzfn    (11790): keyset not found, will generate a new one. can't read keyset; the pref value GenericIdpKeyset does not exist
+[12:30:38 AM]: <== I/zzpz    (11790): Provider GmsCore_OpenSSL not available
+[12:30:38 AM]: <== W/System  (11790): Ignoring header X-Firebase-Locale because its value was null.
+[12:30:45 AM]: <== W/System  (11790): A resource failed to call end.
+[12:30:46 AM]: <== W/System  (11790): Ignoring header X-Firebase-Locale because its value was null.
+[12:31:05 AM]: <== W/System  (11790): Ignoring header X-Firebase-Locale because its value was null.
+[12:31:05 AM]: <== E/flutter (11790): [ERROR:flutter/runtime/dart_vm_initializer.cc(41)] Unhandled Exception: [firebase_auth/invalid-verification-code] The sms verification code used to create the phone auth credential is invalid. Please resend the verification code sms and be sure use the verification code provided by the user.
+[12:31:05 AM]: <== E/flutter (11790): #0      StandardMethodCodec.decodeEnvelope (package:flutter/src/services/message_codecs.dart:653:7)
+[12:31:05 AM]: <== E/flutter (11790): #1      MethodChannel._invokeMethod (package:flutter/src/services/platform_channel.dart:296:18)
+[12:31:05 AM]: <== E/flutter (11790): <asynchronous suspension>
+[12:31:05 AM]: <== E/flutter (11790): #2      MethodChannel.invokeMapMethod (package:flutter/src/services/platform_channel.dart:499:43)
+[12:31:05 AM]: <== E/flutter (11790): <asynchronous suspension>
+[12:31:05 AM]: <== E/flutter (11790): #3      MethodChannelFirebaseAuth.signInWithCredential (package:firebase_auth_platform_interface/src/method_channel/method_channel_firebase_auth.dart:459:12)
+[12:31:05 AM]: <== E/flutter (11790): <asynchronous suspension>
+[12:31:05 AM]: <== E/flutter (11790): #4      FirebaseAuth.signInWithCredential (package:firebase_auth/src/firebase_auth.dart:518:9)
+[12:31:05 AM]: <== E/flutter (11790): <asynchronous suspension>
+[12:31:05 AM]: <== E/flutter (11790): #5      AuthController.otpCheck (package:mlkeyprg/controller/auth_controller.dart:137:16)
+[12:31:05 AM]: <== E/flutter (11790): <asynchronous suspension>
+[12:31:05 AM]: <== E/flutter (11790): #6      AuthController.verifyOtp (package:mlkeyprg/controller/auth_controller.dart:145:21)
+[12:31:05 AM]: <== E/flutter (11790): <asynchronous suspension>
+[12:31:05 AM]: <== E/flutter (11790):
+[12:31:16 AM]: <== W/FirebaseAuth(11790): [SmsRetrieverHelper] Timed out waiting for SMS.
+[12:31:26 AM]: ==> [{"id":"19","method":"app.restart","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","fullRestart":false,"pause":false,"reason":"save","debounce":true}}]
+[12:31:26 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"39","progressId":"hot.reload","message":"Performing hot reload...","finished":false}}]
+[12:31:26 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"40","progressId":null,"message":"Syncing files to device sdk gphone x86...","finished":false}}]
+[12:31:26 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"40","progressId":null,"finished":true}}]
+[12:31:26 AM]: <== [{"event":"app.progress","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b","id":"39","progressId":"hot.reload","finished":true}}]
+[12:31:26 AM]: <== Reloaded 1 of 967 libraries in 536ms (compile: 24 ms, reload: 168 ms, reassemble: 277 ms).
+[12:31:26 AM]: <== [{"id":"19","result":{"code":0,"message":"Reloaded 1 of 967 libraries"}}]
+[12:31:33 AM]: <== W/System  (11790): Ignoring header X-Firebase-Locale because its value was null.
+[12:31:33 AM]: <== W/System  (11790): Ignoring header X-Firebase-Locale because its value was null.
+[12:31:34 AM]: <== D/FirebaseAuth(11790): Notifying id token listeners about user ( 7LL7b8Lvm8NJpUYeUw1W4bGyDzv2 ).
+[12:31:34 AM]: <== D/FirebaseAuth(11790): Notifying auth state listeners about user ( 7LL7b8Lvm8NJpUYeUw1W4bGyDzv2 ).
+[12:32:25 AM]: <== D/FirebaseAuth(11790): Notifying id token listeners about a sign-out event.
+[12:32:25 AM]: <== D/FirebaseAuth(11790): Notifying auth state listeners about a sign-out event.
+[12:32:25 AM]: <== I/flutter (11790): user not loginrd
+[12:32:27 AM]: <== I/AssistStructure(11790): Flattened final assist data: 440 bytes, containing 1 windows, 3 views
+[12:32:50 AM]: <== E/zzbf    (11790): SafetyNet Attestation fails basic integrity.
+[12:32:50 AM]: <== W/System  (11790): Ignoring header X-Firebase-Locale because its value was null.
+[12:32:50 AM]: <== I/xample.mlkeypr(11790): Background concurrent copying GC freed 44523(2182KB) AllocSpace objects, 30(1304KB) LOS objects, 49% free, 3433KB/6866KB, paused 510us total 192.052ms
+[12:32:57 AM]: <== W/System  (11790): A resource failed to call end.
+[12:33:23 AM]: <== W/System  (11790): Ignoring header X-Firebase-Locale because its value was null.
+[12:33:40 AM]: <== W/System  (11790): Ignoring header X-Firebase-Locale because its value was null.
+[12:33:41 AM]: <== W/System  (11790): Ignoring header X-Firebase-Locale because its value was null.
+[12:33:41 AM]: <== D/FirebaseAuth(11790): Notifying id token listeners about user ( orddhmyFpKhsxO8jMt9ARHa4Bl53 ).
+[12:33:41 AM]: <== D/FirebaseAuth(11790): Notifying auth state listeners about user ( orddhmyFpKhsxO8jMt9ARHa4Bl53 ).
+[12:33:53 AM]: <== W/FirebaseAuth(11790): [SmsRetrieverHelper] Timed out waiting for SMS.
+[12:37:39 AM]: ==> [{"id":"20","method":"app.stop","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b"}}]
+[12:37:39 AM]: <== Application finished.
+[12:37:39 AM]: <== [{"id":"20","result":true}]
+[12:37:39 AM]: <== [{"event":"app.stop","params":{"appId":"0ee401e1-cbbe-4132-bce6-970a02c19f2b"}}]
