@@ -23,11 +23,15 @@ class LoginScreen extends StatelessWidget {
               ),
               const SizedBox(height: 50),
               const SizedBox(height: 15),
-              const LoginField(hintText: 'Email'),
+              const LoginField(hintText: 'Phone'),
+              // const SizedBox(height: 15),
+              // const LoginField(hintText: 'Email'),
               const SizedBox(height: 15),
               const LoginField(hintText: 'Password'),
               const SizedBox(height: 20),
-              const GradientButton(),
+              GradientButton(
+                onTap: () {},
+              ),
               const SizedBox(height: 20),
               Row(
                 mainAxisAlignment: MainAxisAlignment.center,

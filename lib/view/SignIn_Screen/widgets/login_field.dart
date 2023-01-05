@@ -28,6 +28,7 @@ class LoginField extends StatelessWidget {
             borderSide: const BorderSide(
               color: Pallete.gradient2,
               width: 3,
+              
             ),
             borderRadius: BorderRadius.circular(10),
           ),
